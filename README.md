@@ -11,8 +11,10 @@ export FLASK_APP=app.py export FLASK_ENV=development
 
 Requirements
 ------------
+```
 flask
 pip
 redis
 rq
 beautifulsoup
+```
