@@ -1,7 +1,5 @@
-Disk usage API with Flask App
-===============================
+<h2 align="center">Disk usage API with Flask App</h2>
 
-[![API](https://img.shields.io/badge/BBR-DevOps-blueviolet)](https://www.linkedin.com/in/bbr/)
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/BBR-DevOps-blueviolet" alt="Build Status"></a>
 <a href="https://www.idealhax.blogspot.com"><img src="https://img.shields.io/badge/BBR-Blog-blue" alt="Build Status"></a>
